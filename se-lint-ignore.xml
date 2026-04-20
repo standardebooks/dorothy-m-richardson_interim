@@ -10,4 +10,16 @@
 			<reason>Allow leading single close quote, ’ospital.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-7.xhtml">
+		<ignore code="y-007">
+			<line>20</line>
+			<reason>Use of British-style single quotes in this paragraph appears intentional, sign of interior monologue.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-8.xhtml">
+		<ignore code="y-007">
+			<line>22</line>
+			<reason>Use of British-style single quotes in this paragraph appears intentional, sign of interior monologue.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
