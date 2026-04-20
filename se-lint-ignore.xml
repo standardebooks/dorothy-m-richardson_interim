@@ -5,4 +5,9 @@
 			<reason>Space after dash is author's choice.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-6.xhtml">
+		<ignore code="y-007">
+			<reason>Allow leading single close quote, ’ospital.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
