@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-1.xhtml">
+		<ignore code="t-033">
+			<reason>Space after dash is author's choice.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
