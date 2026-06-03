@@ -18,13 +18,13 @@
 	</file>
 	<file path="chapter-8.xhtml">
 		<ignore code="y-007">
-			<line>22</line>
+			<line>21</line>
 			<reason>Author consistently uses single quoted dialog to indicate interiority.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-9.xhtml">
 		<ignore code="y-007">
-			<line>128</line>
+			<line>115</line>
 			<reason>Dialect.</reason>
 		</ignore>
 	</file>
