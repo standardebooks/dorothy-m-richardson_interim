@@ -38,45 +38,53 @@
 		<dc:subject id="subject-3">England -- Social life and customs -- 20th century -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-3">LCHS</meta>
 		<meta property="term" refines="#subject-3">sh2008114942</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Pilgrimage</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">5</meta>
+		<dc:description id="description">A year in the life of an independent young woman living in a London boarding house at the end of the nineteenth century.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Tunnel&lt;/i&gt; is the fifth installment in &lt;a href="https://standardebooks.org/ebooks/dorothy-m-richardson"&gt;Dorothy M. Richardson’s&lt;/a&gt; pioneering sequence of semi-autobiographical novels, &lt;a href="https://standardebooks.org/collections/pilgrimage"&gt;Pilgrimage&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;For the first time in the series, Miriam Henderson continues in the situation she established for herself established for herself in the previous novel, &lt;a href="https://standardebooks.org/ebooks/dorothy-m-richardson/the-tunnel"&gt;&lt;i&gt;The Tunnel&lt;/i&gt;: working as a dental assistant and living in the boarding house run by Mrs. Bailey.&lt;/a&gt;. As she navigates the complexities of an independent life she allows herself to become more entwined with the Bailey family, more a part of the boarding house community, and more of a Londoner.&lt;/p&gt;
+			&lt;p&gt;Interim was originally published in serial form in the literary magazine &lt;i&gt;The Little Review&lt;/i&gt;, alongside installments of &lt;i&gt;Ulysses&lt;/i&gt; by &lt;i&gt;James Joyce&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/57395</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/interim0000doro</dc:source>
+		<meta property="se:production-notes">
+			In early volumes, Richardson separated the text into numbered subchapters. In later volumes, and later revisions, she eliminated these numbers and left spacing between these "subchapters." The printed text for this edition uses numbers, but for consistency and based on the author's later-expressed intention they are replaced in this Standard Ebooks edition with unnumbered thought breaks.
+		</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Interim</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/dorothy-m-richardson_interim</meta>
 		<dc:creator id="author">Dorothy M. Richardson</dc:creator>
 		<meta property="file-as" refines="#author">Richardson, Dorothy M.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Dorothy Miller Richardson</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Dorothy_M._Richardson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50051627</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Michael Ancher</dc:contributor>
+		<meta property="file-as" refines="#artist">Ancher, Michael</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Michael_Ancher</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n84193911</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+		<dc:contributor id="transcriber-1">Mary Glenn Krause</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Krause, Mary Glenn</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-2">TRANSCRIBER_2_URL</meta>
+		<dc:contributor id="transcriber-2">MFR</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">MFR</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
+		<dc:contributor id="transcriber-3">Jens Sadowski</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Sadowski, Jens</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-4">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Distributed Proofreaders</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdp.net/</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Ray Ryan</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Ryan, Ray</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://rjrjr.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
