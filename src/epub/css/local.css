@@ -29,3 +29,7 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End centered dedications */
+
+section[epub|type~="dedication"] b{
+	text-transform: uppercase;
+}
