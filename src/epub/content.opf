@@ -42,10 +42,10 @@
 		<meta id="collection-1" property="belongs-to-collection">Pilgrimage</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">5</meta>
-		<dc:description id="description">A year in the life of an independent young woman living in a London boarding house at the end of the nineteenth century.</dc:description>
+		<dc:description id="description">An independent young woman loding in a London boarding house at the end of the nineteenth century opens herself to the society of her fellow boarders.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Tunnel&lt;/i&gt; is the fifth installment in &lt;a href="https://standardebooks.org/ebooks/dorothy-m-richardson"&gt;Dorothy M. Richardson’s&lt;/a&gt; pioneering sequence of semi-autobiographical novels, &lt;a href="https://standardebooks.org/collections/pilgrimage"&gt;Pilgrimage&lt;/a&gt;.&lt;/p&gt;
-			&lt;p&gt;For the first time in the series, Miriam Henderson continues in the situation she established for herself established for herself in the previous novel, &lt;a href="https://standardebooks.org/ebooks/dorothy-m-richardson/the-tunnel"&gt;&lt;i&gt;The Tunnel&lt;/i&gt;: working as a dental assistant and living in the boarding house run by Mrs. Bailey.&lt;/a&gt;. As she navigates the complexities of an independent life she allows herself to become more entwined with the Bailey family, more a part of the boarding house community, and more of a Londoner.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Interim&lt;/i&gt; is the fifth installment in &lt;a href="https://standardebooks.org/ebooks/dorothy-m-richardson"&gt;Dorothy M. Richardson’s&lt;/a&gt; pioneering sequence of semi-autobiographical novels, &lt;a href="https://standardebooks.org/collections/pilgrimage"&gt;Pilgrimage&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;After years of false starts and tragedy Miriam Henderson experiences a measure of stability for the first time in her adult life, working as a dental assistant and living on her own in a London boarding house. As she navigates the social complexities of independent living she allows herself to become more engaged with the family of her landlady, more a part of the boarding house community, and more of a Londoner.&lt;/p&gt;
 			&lt;p&gt;Interim was originally published in serial form in the literary magazine &lt;i&gt;The Little Review&lt;/i&gt;, alongside installments of &lt;i&gt;Ulysses&lt;/i&gt; by &lt;i&gt;James Joyce&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
