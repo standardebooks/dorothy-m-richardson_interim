@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/dorothy-m-richardson/interim</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-06-06T00:54:29Z</dc:date>
+		<meta property="dcterms:modified">2026-06-06T00:54:29Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,11 +42,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Pilgrimage</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">5</meta>
-		<dc:description id="description">An independent young woman loding in a London boarding house at the end of the nineteenth century opens herself to the society of her fellow boarders.</dc:description>
+		<dc:description id="description">An independent young woman lodging in a London boarding house at the end of the nineteenth century opens herself to the society of her fellow boarders.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Interim&lt;/i&gt; is the fifth installment in &lt;a href="https://standardebooks.org/ebooks/dorothy-m-richardson"&gt;Dorothy M. Richardson’s&lt;/a&gt; pioneering sequence of semi-autobiographical novels, &lt;a href="https://standardebooks.org/collections/pilgrimage"&gt;Pilgrimage&lt;/a&gt;.&lt;/p&gt;
-			&lt;p&gt;After years of false starts and tragedy Miriam Henderson experiences a measure of stability for the first time in her adult life, working as a dental assistant and living on her own in a London boarding house. As she navigates the social complexities of independent living she allows herself to become more engaged with the family of her landlady Mrs. Bailey; more a part of the boarding house community, especially a group of Canadian doctors; and more of a Londoner.&lt;/p&gt;
-			&lt;p&gt;Interim was originally published in serial form in the literary magazine &lt;i&gt;The Little Review&lt;/i&gt;, alongside installments of &lt;i&gt;Ulysses&lt;/i&gt; by &lt;i&gt;James Joyce&lt;/i&gt;. It is a book in which nothing “happens” (Richardson dismissed plot as “lollipops for children”) but which paints a vivid, intimate portrait of a young writer’s mind, and restores to life the world that shaped her.&lt;/p&gt;
+			&lt;p&gt;After years of false starts and tragedy, Miriam Henderson, the series’s protagonist, experiences a measure of stability for the first time in her adult life working as a dental assistant and living on her own in a London boarding house. As she navigates the social complexities of independent living, she allows herself to become more engaged with the family of her landlady, more a part of the boarding house community—especially a group of Canadian doctors—and more of a Londoner.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Interim&lt;/i&gt; was originally serialized in &lt;i&gt;The Little Review&lt;/i&gt;, alongside installments of &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/james-joyce/ulysses"&gt;Ulysses&lt;/a&gt;&lt;/i&gt;. It’s a story in which nothing “happens”—Richardson herself dismissed plot as “lollipops for children”—but which paints a vivid and intimate portrait of a young writer’s mind, and brings to life the world that shaped her.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/57395</dc:source>
@@ -54,8 +54,8 @@
 		<meta property="se:production-notes">
 			In early volumes, Richardson separated the text into numbered subchapters. In later volumes, and later revisions, she eliminated these numbers and left spacing between these "subchapters." The printed text for this edition uses numbers, but for consistency and based on the author's later-expressed intention they are replaced in this Standard Ebooks edition with unnumbered thought breaks.
 		</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">57897</meta>
+		<meta property="se:reading-ease.flesch">73.78</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Interim</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/dorothy-m-richardson_interim</meta>
 		<dc:creator id="author">Dorothy M. Richardson</dc:creator>
@@ -92,6 +92,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
