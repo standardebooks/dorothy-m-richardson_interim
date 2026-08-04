@@ -43,7 +43,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Pilgrimage</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">5</meta>
-		<dc:abstract>An independent young woman lodging in a London boarding house at the end of the nineteenth century opens herself to the society of her fellow boarders.</dc:abstract>
+		<meta property="schema:abstract">An independent young woman lodging in a London boarding house at the end of the nineteenth century opens herself to the society of her fellow boarders.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Interim&lt;/i&gt; is the fifth installment in &lt;a href="https://standardebooks.org/ebooks/dorothy-m-richardson"&gt;Dorothy M. Richardson’s&lt;/a&gt; pioneering sequence of semi-autobiographical novels, &lt;a href="https://standardebooks.org/collections/pilgrimage"&gt;Pilgrimage&lt;/a&gt;.&lt;/p&gt;
 			&lt;p&gt;After years of false starts and tragedy, Miriam Henderson, the series’s protagonist, experiences a measure of stability for the first time in her adult life working as a dental assistant and living on her own in a London boarding house. As she navigates the social complexities of independent living, she allows herself to become more engaged with the family of her landlady, more a part of the boarding house community—especially a group of Canadian doctors—and more of a Londoner.&lt;/p&gt;
